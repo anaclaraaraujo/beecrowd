@@ -14,10 +14,10 @@ public class Area_1012 {
         double areaSQ = Math.pow(B, 2);
         double areaR = A * B;
 
-        System.out.printf("TRIANGULO: %.3f%n", areaTR);
-        System.out.printf("CIRCULO: %.3f%n", areaC);
+        System.out.printf("TRIANGLE: %.3f%n", areaTR);
+        System.out.printf("CIRCLE: %.3f%n", areaC);
         System.out.printf("TRAPEZIO: %.3f%n", areaTP);
-        System.out.printf("QUADRADO: %.3f%n", areaSQ);
-        System.out.printf("RETANGULO: %.3f%n", areaR);
+        System.out.printf("SQUARE: %.3f%n", areaSQ);
+        System.out.printf("RECTANGLE: %.3f%n", areaR);
     }
 }

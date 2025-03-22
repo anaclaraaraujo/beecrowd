@@ -13,7 +13,7 @@ public class SimpleSum_1003 {
 
         SUM = A + B;
 
-        System.out.println("SOMA = " + SUM);
+        System.out.println("SUM = " + SUM);
 
     }
 }

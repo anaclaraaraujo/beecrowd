@@ -19,6 +19,6 @@ public class SimpleCalculation_1010 {
 
         totalPrice += number * price;
 
-        System.out.printf("VALOR A PAGAR: R$ %.2f\n", totalPrice);
+        System.out.printf("AMOUNT TO PAY: R$ %.2f\n", totalPrice);
     }
 }

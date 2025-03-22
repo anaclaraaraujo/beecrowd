@@ -12,6 +12,6 @@ public class Difference_1007 {
 
         int diff = (A * B - C * D);
 
-        System.out.println("DIFERENCA = " + diff);
+        System.out.println("DIFFERENCE = " + diff);
     }
 }

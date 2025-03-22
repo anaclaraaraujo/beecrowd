@@ -8,11 +8,11 @@ public class CoordinatesOfPoint_1041 {
         double y = sc.nextDouble();
 
         if (x == 0 && y == 0) {
-            System.out.println("Origem");
+            System.out.println("Origin");
         } else if (x == 0) {
-            System.out.println("Eixo X");
+            System.out.println("Axle X");
         } else if (y == 0) {
-            System.out.println("Eixo Y");
+            System.out.println("Axle Y");
         } else if (x > 0 && y > 0) {
             System.out.println("Q1");
         } else if (x < 0 && y > 0) {

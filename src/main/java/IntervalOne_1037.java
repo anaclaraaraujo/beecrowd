@@ -7,7 +7,7 @@ public class IntervalOne_1037 {
         int N = scanner.nextInt();
 
         if (N < 0.0 || N > 100.0) {
-            System.out.println("Fora do intervalo");
+            System.out.println("Out of range");
         } else if (N <= 25) {
             System.out.println("[0,25]");
         } else if (N <= 50) {
